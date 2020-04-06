@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "CondBr",
+    "slug": "condbr",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "description": "HEP Tecnologia - Sistemas de Controle de Acesso Para Condomínios.",
+    "version": "2.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#151F2E"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.self.condbr",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.self.condbr",
+      "versionCode": 1
+    }
+  }
+}
