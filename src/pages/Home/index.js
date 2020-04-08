@@ -25,11 +25,9 @@ export default function Home() {
       <BackgroundImage source={backgroundImg}>
         <BackgroundOverlay>
           <BodyTitle>CondBr</BodyTitle>
-          <BodyText>Criado para que as informações possam ser visualizadas por voce, em qualquer local.</BodyText>
-          <BodyText>Pode ser Integrado ao Software Sentinela X New.</BodyText>
           <BodyButton>
             <BodyButtonText onPress={() => navigateToMain()}>
-              Comece agora!
+              Iniciar
             </BodyButtonText>
           </BodyButton>
           <PolicyText>

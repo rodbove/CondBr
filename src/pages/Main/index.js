@@ -5,7 +5,7 @@ export default function Main() {
   return (
     <WebView
       style={{ flex: 1 }}
-      source={{ uri: 'http://condbr.com.br:8077/' }}
+      source={{ uri: 'https://www.hep.com.br/condbr.html' }}
     />
   );
 }

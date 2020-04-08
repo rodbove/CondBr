@@ -19,7 +19,6 @@ export const BackgroundOverlay = styled.View`
 export const BodyTitle = styled.Text`
   font-size: 56px;
   color: #FFF;
-  margin-bottom: 10px;
 `;
 
 export const BodyText = styled.Text`
@@ -28,12 +27,11 @@ export const BodyText = styled.Text`
   max-width: 90%;
   font-size: 18px;
   font-weight: 500;
-  margin: 20px 0;
 `;
 
 export const BodyButton = styled.TouchableOpacity`
   background: #199eb8;
-  margin-top: 20px;
+  margin-top: 10px;
   padding: 10px 20px;
   border-radius: 50px;
   justify-content: center;
