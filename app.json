@@ -7,7 +7,7 @@
       "android"
     ],
     "description": "HEP Tecnologia - Sistemas de Controle de Acesso Para Condomínios.",
-    "version": "2.0.1",
+    "version": "2.0.3",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -27,7 +27,7 @@
     },
     "android": {
       "package": "com.self.condbr",
-      "versionCode": 1
+      "versionCode": 3
     }
   }
 }
